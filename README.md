@@ -3,4 +3,4 @@ The following code uses HTML5, CSS and Javascript to transform the given<br> [da
 
 You may view the completed code [here](https://sh1k44r.github.io/Scatterplot-Graph/).
 
-That completes one of the projects in FREECODECAMP.
+That completes one of the Data Visualization projects of FREECODECAMP.
